@@ -24,7 +24,7 @@
 	<br> 
 	GET通信
 	<s:form method="get" action="TestAction">
-		<textfield name="username" />
+		<s:textfield name="username" />
 		<s:password name="password" />
 		<s:submit value="送信" />
 	</s:form>
